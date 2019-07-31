@@ -1,0 +1,108 @@
+  <indent x="1.25"/>
+  <text bold center="3.8" text="GRUPO A"/>
+  <text nobold text=""/>
+  <table padding="2" border="none">
+    <ruler>
+      <tab align="left" width="20"/>
+      <tab align="right" width="4"/>
+      <tab align="right" width="4"/>
+      <tab align="right" width="7"/>
+      <tab align="right" width="6"/>
+      <tab align="center" width="12"/>
+      <tab align="center" width="8"/>
+    </ruler>
+    <reruler bot="all"/>
+    <trh bold>
+      <th text="Team"/>
+      <th text="W"/>
+      <th text="L"/>
+      <th text="Pct"/>
+      <th text="GB"/>
+      <th text="Streak"/>
+      <th text="Last 10"/>
+    </trh>
+    <reruler/>
+    <tr nobold>
+      <td text="CJBA"/>
+      <td text="1"/>
+      <td text="1"/>
+      <td text=" .500"/>
+      <td text="  -"/>
+      <td text="W 1"/>
+      <td text="1-1"/>
+    </tr>
+    <tr>
+      <td text="Go Pro Baseball"/>
+      <td text="1"/>
+      <td text="1"/>
+      <td text=" .500"/>
+      <td text="  -"/>
+      <td text="L 1"/>
+      <td text="1-1"/>
+    </tr>
+    <tr>
+      <td text="Prospectos Elite"/>
+      <td text="1"/>
+      <td text="1"/>
+      <td text=" .500"/>
+      <td text="  -"/>
+      <td text="W 1"/>
+      <td text="1-1"/>
+    </tr>
+  </table>
+  <text text=""/>
+  <text text=""/>
+  <text bold center="3.8" text="GRUPO B"/>
+  <text nobold text=""/>
+  <table padding="2" border="none">
+    <ruler>
+      <tab align="left" width="20"/>
+      <tab align="right" width="4"/>
+      <tab align="right" width="4"/>
+      <tab align="right" width="7"/>
+      <tab align="right" width="6"/>
+      <tab align="center" width="12"/>
+      <tab align="center" width="8"/>
+    </ruler>
+    <reruler bot="all"/>
+    <trh bold>
+      <th text="Team"/>
+      <th text="W"/>
+      <th text="L"/>
+      <th text="Pct"/>
+      <th text="GB"/>
+      <th text="Streak"/>
+      <th text="Last 10"/>
+    </trh>
+    <reruler/>
+    <tr nobold>
+      <td text="Diamonds Prospect"/>
+      <td text="2"/>
+      <td text="0"/>
+      <td text="1.000"/>
+      <td text="  -"/>
+      <td text="W 2"/>
+      <td text="2-0"/>
+    </tr>
+    <tr>
+      <td text="ALL STAR"/>
+      <td text="1"/>
+      <td text="1"/>
+      <td text=" .500"/>
+      <td text="  1"/>
+      <td text="L 1"/>
+      <td text="1-1"/>
+    </tr>
+    <tr>
+      <td text="Occidental Dep"/>
+      <td text="0"/>
+      <td text="2"/>
+      <td text=" .000"/>
+      <td text="  2"/>
+      <td text="L 2"/>
+      <td text="0-2"/>
+    </tr>
+  </table>
+  <text text=""/>
+  <text text=""/>
+  <indent x="left"/>
